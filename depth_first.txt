@@ -1,0 +1,5 @@
+Depth first search algorithm is an algorithm for traversing tree data structures.
+It aims at traveling through a tree in order to explore a path all the way to a leaf before backtracking to parent nodes where it explores another path.
+
+This is achieved by using a stack to save pointers to nodes which it then uses for later processing.
+
